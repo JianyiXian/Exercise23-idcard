@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Create an IDCards App using FunctionalComponents, using CRA.
+preview:
+![Screenshot 2023-09-21 224914](https://github.com/JianyiXian/Exercise23-idcard/assets/104037920/ee961f9c-32db-47fd-8490-977dc505e41d)
 
 
 ## Available Scripts
